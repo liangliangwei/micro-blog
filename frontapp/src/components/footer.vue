@@ -1,8 +1,8 @@
 <template>
   <footer class="footer">
-    <p>1、本站个人博客模板，均为xx本人设计，但是未经许可不得用于任何商业目的。</p>
+    <p>1、本站个人博客模板，未经许可不得用于任何商业目的。</p>
     <p>2、所有文章未经授权禁止转载、摘编、复制或建立镜像，如有违反，追究法律责任。</p>
-    <p>Copyright © www.yangqq.com All Rights Reserved. 备案号：蜀ICP备11002373号-1</p>
+    <p>Copyright © www.havenee.cn @2020 -有，你所需 京ICP备18053849号</p>
   </footer>
 </template>
 
